@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <litepal>
+    <dbname value="DateBase" ></dbname>
+
+    <version value="6" ></version>
+
+    <lite>
+        <mapping class="com.hopepower.whereistime.Model.Date"></mapping>
+        <mapping class="com.hopepower.whereistime.Model.Time" ></mapping>
+    </lite>
+</litepal>
